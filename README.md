@@ -30,8 +30,7 @@ I'm especially interested in backend systems, DevOps, Go, and product features t
 
 | Role | Company | Period |
 | --- | --- | --- |
-| Software Engineer TA | Nile University | Jul 2025 – Present |
-| Software Engineer | Orange Business | Jul 2024 – Jul 2025 |
+| Software Engineer | Orange Business | Jul 2024 – Present |
 | Full Stack & DevOps Intern | Orange Innovation | Sep 2024 – Jan 2025 |
 | C/C++ Intern | Orange Innovation | Aug 2022 – Sep 2022 |
 
@@ -56,12 +55,12 @@ I'm especially interested in backend systems, DevOps, Go, and product features t
 
 ### GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MrZoZ&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff3b3b&icon_color=dc2626&text_color=e5e5e5" alt="MrZoZ GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrZoZ&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff3b3b&text_color=e5e5e5" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=MrZoZ&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff3b3b&icon_color=dc2626&text_color=e5e5e5" alt="MrZoZ GitHub stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MrZoZ&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff3b3b&text_color=e5e5e5" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=MrZoZ&theme=radical&hide_border=true&background=0a0a0a&ring=dc2626&fire=ff3b3b&currStreakLabel=ff3b3b" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=MrZoZ&theme=radical&hide_border=true&background=0a0a0a&ring=dc2626&fire=ff3b3b&currStreakLabel=ff3b3b&hide_total_contributions=true" alt="GitHub streak" />
 
 <br/>
 
